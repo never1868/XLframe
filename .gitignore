@@ -1,0 +1,11 @@
+Library/
+Temp/
+ProjectSettings/
+obj/
+Logs/
+.vs/
+*.csproj
+*.sln
+UserSettings/EditorUserSettings.asset
+Assets/Scenes/
+Assets/Scenes.meta
